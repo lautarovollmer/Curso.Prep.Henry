@@ -21,7 +21,7 @@ console.log(nombresEstudiantes.length);  // 4
                             
 */                               
 
-// Otros dos métodos de matriz incorporados muy útiles son .push y .pop. Estos métodos se refieren a la adición y eliminación de elementos de la matriz después de su declaración inicial.
+// Otros dos métodos de matriz incorporados muy útiles son .push y .pop. Estos métodos se refieren a la adición y eliminación de elementos del arreglo después de su declaración inicial.
 
 const nombresEstudiantes = ['Martin', 'Antonio', 'Sara', 'Samuel'];
 

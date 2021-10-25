@@ -18,4 +18,3 @@ function Usuario(nombre, github) {
 // Pero el método saludar esta en el objeto prototype de Personas… , y esta perfecto, así es como debería funcionar, las instancias acceden al __proto__ que fue vinculado por el constructor para ver que métodos tienen. 
 // Nuestro problema es que al llamar a Persona con call en vez de con el método new no se esta haciendo ese vinculo en el que Persona.prototype se mete en nuestro Prototype Chain, y entonces las instancias de Alumno no tienen acceso a los métodos de Persona
 
-
