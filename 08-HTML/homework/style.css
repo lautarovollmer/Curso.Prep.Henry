@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+}
+
+.thirdDiv {
+  height: 600px;
+  width: 500px;
+  padding: 50px;
+  border: 50px;
+  border-color: black;
+  align-items: center;
+}
+
+span {
+  font-size: 18px;
+  margin: 50px;
+}
+
+.divClass {
+  align-items: center;
+}
